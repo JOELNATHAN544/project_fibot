@@ -13,7 +13,7 @@
 - A Rust program that prints "Hello, world!" when executed.
   - A GitHub workflow that run the "Hello, world!" program and output in the action logs.
   - A minimal working GitHub Action written in Rust that is successfully running on GitHub.
-
+4  2 46 
 ### Step 2: Workflows
 
 - A action.yml workflow file that accepts two parameters `enable_fib` and `max_threshold` and also implements input parsing in the rust code.
